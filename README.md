@@ -6,15 +6,16 @@ Our application would take in an ad and then test it out on a set of virtual aud
 This lets the customer save on time, money, and energy before fully releasing an ad.
 
 ## Tech/Framework
-We only used React.js for the framework and Tailscript as the language.
+We only used React.js for the framework and TypeScript as the language.
 
 ## Navigating the Application
 You can go to this link: [https://vera-swau.vercel.app/](https://vera-swau.vercel.app/) and press the buttons that guide you through the website.
 
 ## How to run application
   git clone https://github.com/YOUR-USERNAME/vera.git
-  cd vera
+ ```bash
+git clone https://github.com/YOUR-USERNAME/vera.git
+cd vera
 
-  npm install
-
-  npm start
+npm install
+npm start
