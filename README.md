@@ -16,6 +16,8 @@ You can go to this link: [https://vera-swau.vercel.app/](https://vera-swau.verce
  ```bash
 git clone https://github.com/YOUR-USERNAME/vera.git
 cd vera
-
 npm install
+
+cd vera/vera-prototype
 npm start
+
